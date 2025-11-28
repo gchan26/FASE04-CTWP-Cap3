@@ -16,6 +16,7 @@
 Este projeto aplica a metodologia CRISP-DM para o desenvolvimento de um modelo de classificação automática de grãos de trigo, utilizando algoritmos de Aprendizado de Máquina.
 
 O objetivo é demonstrar como a automação pode aumentar a eficiência e a precisão na classificação de grãos realizada tradicionalmente de forma manual.
+Link :https://github.com/gchan26/FASE04-CTWP-Cap3.git
 
 ## Dataset
 
